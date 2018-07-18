@@ -1,0 +1,78 @@
+﻿<Window x:Name="window" x:Class="DownloadManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DownloadManager"
+        mc:Ignorable="d"
+        Title="Download Manager" Height="700" Width="1000">
+
+    <Grid Margin="0,0,0.2,0.4">
+
+        <ToolBar x:Name="toolBar" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="12" Width="{Binding ActualWidth, ElementName=window, Mode=OneWay}" Height="34" Margin="-4,0,-4.2,0">
+            <Button Content="Add URL" Click="AddURL_Click" Margin="0,3,0,4"/>
+            <Separator/>
+            <Button Click="Settings_Click" Content="Settings" VerticalAlignment="Bottom" ToolTip="Open the settings window" Margin="0,0,0,4"/>
+            <Separator/>
+            <Menu>
+                <MenuItem Header="Downloads" Height="29" Background="#FFEEF5FD" Margin="0" Width="76">
+                    <MenuItem x:Name="BTN_ClearDownloads" Click="BTN_ClearDownloads_Click" Header="Clear finished downloads"/>
+                    <MenuItem x:Name="BTN_PauseDownloads" Click="BTN_PauseDownloads_Click" Header="Pause current downloads"/>
+                    <MenuItem x:Name="BTN_ResumeDownloads" Click="BTN_ResumeDownloads_Click" Header="Resume all downloads"/>
+                </MenuItem>
+            </Menu>
+            <Separator/>
+
+            <Button x:Name="BTN_About" Content="About" Click="About_Click" Margin="0,3,0,4"/>
+
+        </ToolBar>
+
+        <ListView x:Name="DownloadList" HorizontalAlignment="Left" Margin="10,39,-18.2,-70.4" VerticalAlignment="Top" Width="{Binding Width, ElementName=window}" Height="{Binding Height, ElementName=window}" VerticalContentAlignment="Top" Padding="0" SelectionChanged="listDownloads_SelectionChanged">
+            <ListView.View>
+
+                <GridView x:Name="DownloadGrid">
+                    <GridViewColumn Header="Status" HeaderStringFormat="" DisplayMemberBinding="{Binding DownloadStatus}" Width="100"/>
+                    <GridViewColumn Header="URL" HeaderStringFormat="" DisplayMemberBinding="{Binding URL}" Width="200"/>
+                    <GridViewColumn Header="Filename" HeaderStringFormat="" DisplayMemberBinding="{Binding Filename}" Width="100"/>
+                    <GridViewColumn Header="Filesize" HeaderStringFormat="" DisplayMemberBinding="{Binding FilesizeString}" Width="100"/>
+
+                    <GridViewColumn Header="">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Start" Command="{Binding Path=StartCommand}"></Button>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Header="">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Pause" Command="{Binding Path=PauseCommand}"></Button>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Header="">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Delete" Command="{Binding Path=DeleteCommand}"></Button>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn x:Name="ProgressColumn" Header="Progress" Width="250">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <ProgressBar Width="{Binding ElementName=ProgressColumn, Path=Width}" Height="15" Value="{Binding DownloadPercentage}"></ProgressBar>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>   
+                    
+                </GridView>
+
+            </ListView.View>
+
+        </ListView>
+
+    </Grid>
+</Window>
