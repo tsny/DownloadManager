@@ -1,0 +1,41 @@
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\bin\Debug\Download Manager - Final Project IT_4400.exe.config
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\bin\Debug\Download Manager - Final Project IT_4400.exe
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\bin\Debug\Download Manager - Final Project IT_4400.pdb
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.csprojResolveAssemblyReference.cache
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\App.g.cs
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400_MarkupCompile.cache
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400_MarkupCompile.lref
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.g.resources
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download_Manager___Final_Project_IT_4400.Properties.Resources.resources
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.csproj.GenerateResource.Cache
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.exe
+c:\users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.pdb
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\AddURLWindow.g.cs
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\MainWindow.g.cs
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\SettingsWindow.g.cs
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\AddURLWindow.baml
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\MainWindow.baml
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\SettingsWindow.baml
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Help.g.cs
+C:\Users\tsny7\documents\visual studio 2017\Projects\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Help.baml
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\bin\Debug\Download Manager - Final Project IT_4400.exe.config
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\bin\Debug\Download Manager - Final Project IT_4400.exe
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\bin\Debug\Download Manager - Final Project IT_4400.pdb
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.csprojResolveAssemblyReference.cache
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\AddURLWindow.g.cs
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Help.g.cs
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\MainWindow.g.cs
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\SettingsWindow.g.cs
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\App.g.cs
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400_MarkupCompile.cache
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400_MarkupCompile.lref
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\AddURLWindow.baml
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Help.baml
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\MainWindow.baml
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\SettingsWindow.baml
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.g.resources
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download_Manager___Final_Project_IT_4400.Properties.Resources.resources
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.csproj.GenerateResource.Cache
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.exe
+C:\Users\tsny7\Downloads\Download Manager - Final Project IT_4400\Download Manager - Final Project IT_4400\obj\Debug\Download Manager - Final Project IT_4400.pdb
