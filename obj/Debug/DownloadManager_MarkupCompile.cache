@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\tsny7\Developer\C#\DownloadManager\obj\Debug\
+C:\Users\tsny7\Developer\DownloadManager\obj\Debug\
 DownloadManager
 none
 false
 DEBUG;TRACE
-C:\Users\tsny7\Developer\C#\DownloadManager\App.xaml
-41962347125
+C:\Users\tsny7\Developer\DownloadManager\XAML\App.xaml
+4-480837805
 
-15-854167965
+11-1286469833
 13738642453
-AddURLWindow.xaml;About.xaml;MainWindow.xaml;SettingsWindow.xaml;
+XAML\AddURLWindow.xaml;XAML\About.xaml;XAML\MainWindow.xaml;XAML\SettingsWindow.xaml;
 
-True
+False
 
