@@ -10,9 +10,9 @@
     <Grid>
         <Label x:Name="label" Content="Default Path:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="TB_DefPath" HorizontalAlignment="Left" Height="23" Margin="92,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="339" IsEnabled="False" FontSize="11"/>
-        <Button Click="BTN_Save_Click" x:Name="BTN_Save" Content="Save" HorizontalAlignment="Left" Margin="350,110,0,0" VerticalAlignment="Top" Width="75" IsDefault="True" IsCancel="True"/>
+        <Button Click="BTN_Save_Click" x:Name="BTN_Save" Content="Save" HorizontalAlignment="Left" Margin="345,110,0,0" VerticalAlignment="Top" Width="75" IsDefault="True" IsCancel="True"/>
         <Button x:Name="BTN_Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="432,110,0,0" VerticalAlignment="Top" Width="75" IsDefault="True" IsCancel="True"/>
-        <Button x:Name="BTN_BrowseDefPath" Content="Browse" HorizontalAlignment="Left" Margin="436,13,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="BTN_BrowseDefPath_Click"/>
+        <Button x:Name="BTN_BrowseDefPath" Content="Browse" HorizontalAlignment="Left" Margin="436,12,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="BTN_BrowseDefPath_Click"/>
 
     </Grid>
 </Window>
